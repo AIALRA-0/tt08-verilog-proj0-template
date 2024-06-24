@@ -1,5 +1,8 @@
 ### Usage 使用说明
 
+**proj0-default-zh**: 中文注释版本 (Chinese Comment Version)  
+**proj0-default-en**: 英文注释版本 (English Comment Version)
+
 1. **Put all your \*.v src files into this folder**  
    将所有的 \*.v 源文件放入此文件夹中
 
